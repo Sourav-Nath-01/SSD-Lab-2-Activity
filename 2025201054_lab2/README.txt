@@ -1,3 +1,7 @@
+GitHub Repository Link:
+=======================
+https://github.com/Sourav-Nath-01/SSD-Lab-2-Activity.git
+
 TITLE
 =====
 SQL Query Practice on Stored Procedures and Cursors
